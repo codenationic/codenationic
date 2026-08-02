@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.png" width="140"/>
+<img src="./logo.png" width="140"/>
 
 # CODE NATION
 <p align="center">
