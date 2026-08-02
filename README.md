@@ -131,3 +131,9 @@ From startup ideas to enterprise systems, our team delivers scalable, secure and
 Made with ❤️ by **CODE NATION**
 
 </div>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/codenationic/codenationic/output/github-contribution-grid-snake.svg"/>
+
+</p>
