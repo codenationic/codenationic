@@ -3,7 +3,11 @@
 <img src="./assets/logo.png" width="140"/>
 
 # CODE NATION
+<p align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1200&color=4F7DFF&center=true&vCenter=true&width=800&lines=Building+Future+Through+Technology;Outsourcing+Company;Startup+Development;IT+Academy;AI+Solutions"/>
+
+</p>
 ### Building Future Through Technology
 
 ### 🚀 Outsourcing • 💡 Startup Development • 🎓 IT Academy
